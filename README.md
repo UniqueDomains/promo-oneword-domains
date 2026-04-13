@@ -67,7 +67,7 @@ print(df.head())
 | dragon.promo   | available | $19.99    | —             | 78             | 48     | 6      | name.com                                                |
 | hello.promo    | resell    | —         | —             | 130            | 70     | 5      | Spaceship, Inc.                                         |
 | data.promo     | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap                                               |
-| forge.promo    | available | $19.99    | $35.99        | 62             | 45     | 5      | name.com                                                |
+| forge.promo    | available | $19.99    | $35.99        | 62             | 44     | 5      | name.com                                                |
 | easy.promo     | resell    | —         | —             | 128            | 68     | 4      | Sav.com, LLC - 28                                       |
 | good.promo     | premium   | $1,250    | $1,250        | 82             | 55     | 4      | name.com                                                |
 | strategy.promo | available | $33.48    | —             | 74             | 43     | 8      | namecheap                                               |
