@@ -1,22 +1,22 @@
-# Available .PROMO One-Word Domains (9,303)
+# Available .PROMO One-Word Domains (11,787)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C303%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C303%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C787%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .promo one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .promo one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,787 domains** on the canonical page below.
 
-**Public extract:** 9,303 rows · **Live catalog:** 9,303 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,787 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/promo`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PROMO one-word domain
 
 ### Files
 
-- `promo.csv` — public CSV extract (9,303 rows)
-- `promo.json` — public JSON extract (9,303 rows)
+- `promo.csv` — public CSV extract (1,000 rows)
+- `promo.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| dragon.promo   | available | $19.99    | —             | 78             | 48     | 6      | name.com                                                |
-| hello.promo    | resell    | —         | —             | 130            | 70     | 5      | Spaceship, Inc.                                         |
-| data.promo     | premium   | $1,300    | $1,300        | 70             | 56     | 4      | namecheap                                               |
-| forge.promo    | available | $19.99    | $35.99        | 62             | 44     | 5      | name.com                                                |
-| easy.promo     | resell    | —         | —             | 128            | 68     | 4      | Sav.com, LLC - 28                                       |
-| good.promo     | premium   | $1,250    | $1,250        | 82             | 55     | 4      | name.com                                                |
-| strategy.promo | available | $33.48    | —             | 74             | 43     | 8      | namecheap                                               |
-| space.promo    | resell    | —         | —             | 80             | 61     | 5      | Porkbun LLC                                             |
-| business.promo | premium   | $3,250    | $3,250        | 100            | 53     | 8      | namecheap                                               |
-| water.promo    | available | $19.99    | —             | 92             | 42     | 5      | name.com                                                |
-| open.promo     | resell    | —         | —             | 106            | 60     | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| art.promo      | premium   | $1,300    | $1,300        | 90             | 52     | 3      | namecheap                                               |
-| agile.promo    | available | $19.99    | $35.99        | 92             | 41     | 5      | name.com                                                |
-| pay.promo      | resell    | —         | —             | 84             | 60     | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| true.promo     | premium   | $1,250    | $1,250        | 86             | 52     | 4      | name.com                                                |
-| ignite.promo   | available | $19.99    | —             | 82             | 40     | 6      | name.com                                                |
-| sex.promo      | resell    | —         | —             | 98             | 59     | 3      | Porkbun LLC                                             |
-| one.promo      | premium   | $312.50   | $312.50       | 132            | 50     | 3      | name.com                                                |
-| learning.promo | available | $33.48    | —             | 76             | 39     | 8      | namecheap                                               |
-| cloud.promo    | resell    | —         | —             | 70             | 59     | 5      | Porkbun LLC                                             |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| justin.promo      | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
+| regions.promo     | premium   | $1,250    | —             | 64             | 59     | 7      | name.com  |
+| tokens.promo      | available | $19.99    | —             | 51             | 36     | 6      | name.com  |
+| cars.promo        | premium   | $3,125    | —             | 66             | 47     | 4      | name.com  |
+| spectra.promo     | available | $19.99    | —             | 62             | 34     | 7      | name.com  |
+| events.promo      | premium   | $3,125    | —             | 68             | 37     | 6      | name.com  |
+| William.promo     | available | $33.48    | —             | 74             | 31     | 7      | namecheap |
+| trends.promo      | premium   | $312.50   | —             | 60             | 32     | 6      | name.com  |
+| spaces.promo      | available | $19.99    | —             | 54             | 30     | 6      | name.com  |
+| sites.promo       | premium   | $312.50   | —             | 53             | 26     | 5      | name.com  |
+| heroes.promo      | available | $19.99    | —             | 68             | 29     | 6      | name.com  |
+| restaurants.promo | premium   | $3,125    | —             | 57             | 21     | 11     | name.com  |
+| gods.promo        | available | $19.99    | —             | 72             | 27     | 4      | name.com  |
+| plans.promo       | premium   | $1,250    | —             | 60             | 20     | 5      | name.com  |
+| bees.promo        | available | $19.99    | —             | 54             | 27     | 4      | name.com  |
+| watches.promo     | premium   | $3,125    | —             | 84             | 19     | 7      | name.com  |
+| translation.promo | available | $19.99    | —             | 76             | 24     | 11     | name.com  |
+| computers.promo   | premium   | $3,125    | —             | 68             | 19     | 9      | name.com  |
+| comics.promo      | available | $19.99    | —             | 68             | 24     | 6      | name.com  |
+| orders.promo      | premium   | $1,250    | —             | 60             | 19     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,303-row public sample | 9,303 live domains                               |
+| 1,000-row public sample | 11,787 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
