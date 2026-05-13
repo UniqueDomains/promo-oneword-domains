@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .promo one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,248 domains · **Median ask:** $121.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/promo`  
 **Best for:** founders, investors, studios
 
@@ -76,7 +76,7 @@ print(df.head())
 | coupons.promo      | premium   | $3,125    | —             | 52             | 24     | 7      | name.com  |
 | bees.promo         | available | $19.99    | —             | 54             | 27     | 4      | name.com  |
 | affiliates.promo   | premium   | $1,107    | $1,107        | 60             | 21     | 10     | namesilo  |
-| translation.promo  | available | $19.99    | —             | 76             | 24     | 11     | name.com  |
+| translation.promo  | available | $19.99    | —             | 76             | 26     | 11     | name.com  |
 | plans.promo        | premium   | $1,250    | —             | 60             | 20     | 5      | name.com  |
 | comics.promo       | available | $19.99    | —             | 68             | 24     | 6      | name.com  |
 | watches.promo      | premium   | $3,125    | —             | 84             | 19     | 7      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
