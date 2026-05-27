@@ -72,12 +72,12 @@ print(df.head())
 | trends.promo       | premium   | $312.50   | —             | 60             | 32     | 6      | name.com  |
 | William.promo      | available | $33.48    | —             | 74             | 31     | 7      | namecheap |
 | sites.promo        | premium   | $312.50   | —             | 53             | 26     | 5      | name.com  |
-| gods.promo         | available | $19.99    | —             | 72             | 27     | 4      | name.com  |
+| gods.promo         | available | $19.99    | —             | 72             | 29     | 4      | name.com  |
 | coupons.promo      | premium   | $3,125    | —             | 52             | 24     | 7      | name.com  |
 | bees.promo         | available | $19.99    | —             | 54             | 27     | 4      | name.com  |
-| affiliates.promo   | premium   | $1,107    | $1,107        | 60             | 21     | 10     | namesilo  |
+| plans.promo        | premium   | $1,250    | —             | 60             | 21     | 5      | name.com  |
 | translation.promo  | available | $19.99    | —             | 76             | 26     | 11     | name.com  |
-| plans.promo        | premium   | $1,250    | —             | 60             | 20     | 5      | name.com  |
+| affiliates.promo   | premium   | $1,107    | $1,107        | 60             | 21     | 10     | namesilo  |
 | whats.promo        | available | $19.99    | —             | 58             | 24     | 5      | name.com  |
 | watches.promo      | premium   | $3,125    | —             | 84             | 19     | 7      | name.com  |
 | deeplearning.promo | available | $19.99    | —             | 74             | 23     | 13     | name.com  |
