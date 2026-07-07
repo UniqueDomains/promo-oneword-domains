@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .promo one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,248 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,248 domains · **Median ask:** $121.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,248 domains · **Median ask:** $130.59 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/promo`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/promo`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PROMO one-word domain
 
 ### Files
 
-- `promo.csv` — public CSV extract (1,000 rows)
-- `promo.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `promo.csv`, public CSV extract (1,000 rows)
+- `promo.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| justin.promo       | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
-| regions.promo      | premium   | $1,250    | —             | 64             | 59     | 7      | name.com  |
-| tokens.promo       | available | $19.99    | —             | 51             | 36     | 6      | name.com  |
-| cars.promo         | premium   | $3,125    | —             | 66             | 47     | 4      | name.com  |
-| spectra.promo      | available | $19.99    | —             | 62             | 34     | 7      | name.com  |
-| trends.promo       | premium   | $312.50   | —             | 60             | 32     | 6      | name.com  |
-| William.promo      | available | $33.48    | —             | 74             | 31     | 7      | namecheap |
-| sites.promo        | premium   | $312.50   | —             | 53             | 26     | 5      | name.com  |
-| gods.promo         | available | $19.99    | —             | 72             | 29     | 4      | name.com  |
-| coupons.promo      | premium   | $3,125    | —             | 52             | 24     | 7      | name.com  |
-| bees.promo         | available | $19.99    | —             | 54             | 27     | 4      | name.com  |
-| plans.promo        | premium   | $1,250    | —             | 60             | 21     | 5      | name.com  |
-| translation.promo  | available | $19.99    | —             | 76             | 26     | 11     | name.com  |
-| affiliates.promo   | premium   | $1,107    | $1,107        | 60             | 21     | 10     | namesilo  |
-| whats.promo        | available | $19.99    | —             | 58             | 24     | 5      | name.com  |
-| watches.promo      | premium   | $3,125    | —             | 84             | 19     | 7      | name.com  |
-| deeplearning.promo | available | $19.99    | —             | 74             | 23     | 13     | name.com  |
-| phones.promo       | premium   | $3,125    | —             | 76             | 19     | 6      | name.com  |
-| comics.promo       | available | $19.99    | —             | 68             | 23     | 6      | name.com  |
-| computers.promo    | premium   | $3,125    | —             | 68             | 19     | 9      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| beauty.promo | premium   | $3,125    | —             | high           | low    | 6      | name.com                                     |
+| ana.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| bit.promo    | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| art.promo    | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                    |
+| ate.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| fast.promo   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                 |
+| ink.promo    | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                     |
+| beg.promo    | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
+| view.promo   | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC                                |
+| lie.promo    | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo                                     |
+| con.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| color.promo  | resell    | —         | —             | high           | low    | 5      | IONOS SE                                     |
+| tie.promo    | premium   | $1,875    | —             | high           | low    | 3      | name.com                                     |
+| end.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| crazy.promo  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                  |
+| usa.promo    | premium   | $3,125    | —             | high           | medium | 3      | name.com                                     |
+| feb.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| nurse.promo  | resell    | —         | —             | medium         | low    | 5      | IONOS SE                                     |
+| wow.promo    | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                     |
+| fig.promo    | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on .promo domain names. The names range from direct words like engine.promo and birthday.promo to more expressive options like suspense.promo and byebye.promo. That makes the selection broad in tone, from functional and campaign-ready to playful and memorable. When comparing these domains, start with how naturally the word works with .promo as a full brand or offer. Then check ask price against the median ask of $121.17 and decide whether the pairing feels clear, credible, and easy to remember. Short, common words can read cleanly, but phrase-like names such as makemusic.promo can be more specific and easier to position.
+This set of one-word .promo domain names spans everyday vocabulary, seasonal terms, and short emotional phrases — from half.promo and okay.promo to christmas.promo and sorry.promo. With 12,248 domains and a median ask near $131, .promo offers an affordable way to secure a short, memorable name for a promotion, sale, or campaign-driven brand. When comparing these domains, weigh brandability against renewal cost and how well the word fits a promo-driven use case.
 
-- All domains in this selection use the .promo extension
-- Median ask across the set is $121.17
-- Word styles range from literal to playful and campaign-led
-- Best picks read naturally with .promo as one phrase
+- 12,248 one-word .promo domain names in this selection
+- Median ask near $131 across the set
+- Mix of everyday words, holidays, and emotional terms
+- Short, ownable names suited for promos and campaigns
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
