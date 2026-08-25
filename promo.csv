@@ -25,7 +25,7 @@ a6743aff-1f0e-4b9e-bc16-8f27e41901e2,aureate.promo,available,19.99,,high,low,7,n
 50596d51-cd75-463f-b604-87de6c59a1f8,meaningful.promo,available,19.99,,high,low,10,name.com,,
 f0f43421-5be0-4f5f-9582-01805288b96d,spiderweb.promo,available,19.99,,high,low,10,name.com,,
 c79a818f-1262-44a1-bf9b-a297ef226ee0,luckystreak.promo,available,19.99,,high,low,12,name.com,,
-a9a10a6e-55db-42d6-8873-43e37be10d60,related.promo,available,11.98,33.48,medium,low,7,namecheap,,
+a9a10a6e-55db-42d6-8873-43e37be10d60,related.promo,available,11.98,33.48,low,low,7,namecheap,,
 a36c5c10-0f13-4581-8cae-9f18be4f375c,basilican.promo,available,11.98,33.48,low,low,9,namecheap,,
 c5032f94-ed05-4c2a-b679-149cde30cd6f,print.promo,resell,,,high,medium,5,Virtualia LLC,23/10/2023 15:15,23/10/2026 15:15
 fa4ac49e-ca95-4408-9997-0fa608e5fd97,risk.promo,available,19.99,,medium,low,4,name.com,,
@@ -106,7 +106,7 @@ a8a3dbeb-50e1-4cf4-823d-ec386ba441d0,artnouveau.promo,available,19.99,,medium,lo
 194cbd38-57ed-462d-89b9-23d97b332a2c,trolling.promo,available,19.99,,medium,low,8,name.com,,
 a1af1a23-956e-4b92-9339-c37c51d09240,acceptant.promo,available,11.98,33.48,low,low,9,namecheap,,
 39107834-fd3f-4e48-80bf-4273ce001c04,exit.promo,available,19.99,,high,low,4,name.com,,
-66ffdba7-6c34-41f1-b887-babb5bab6d96,breakfast.promo,premium,3125,,high,low,9,name.com,,
+66ffdba7-6c34-41f1-b887-babb5bab6d96,breakfast.promo,premium,3125,3125,medium,low,9,name.com,,
 ed75fdc6-8fd7-4825-8954-49bde025e06a,acetylic.promo,available,11.98,33.48,low,low,8,namecheap,,
 1bb429c1-adfd-47ac-a902-5be3755d8175,daring.promo,available,11.98,33.48,medium,low,6,namecheap,,
 368a8330-6f20-4df2-b7e9-0f0743296811,adjective.promo,available,11.98,33.48,low,low,9,namecheap,,
