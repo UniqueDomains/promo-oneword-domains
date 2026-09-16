@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .promo one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,349 domains · **Median ask:** $65.64 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/promo`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| abo.promo   | available | $11.98    | $33.48        | low            | low    | 3      | namecheap                                    |
-| bit.promo   | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| art.promo   | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                    |
-| ana.promo   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| fast.promo  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                 |
-| ink.promo   | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                     |
-| ass.promo   | available | $11.98    | $33.48        | low            | low    | 3      | namecheap                                    |
-| view.promo  | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC                                |
-| lie.promo   | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo                                     |
-| ate.promo   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| color.promo | resell    | —         | —             | high           | low    | 5      | IONOS SE                                     |
-| tie.promo   | premium   | $1,875    | —             | high           | low    | 3      | name.com                                     |
-| beg.promo   | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
-| crazy.promo | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                  |
-| usa.promo   | premium   | $3,125    | —             | high           | medium | 3      | name.com                                     |
-| con.promo   | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| nurse.promo | resell    | —         | —             | medium         | low    | 5      | IONOS SE                                     |
-| wow.promo   | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                     |
-| end.promo   | available | $11.98    | $33.48        | medium         | low    | 3      | namecheap                                    |
-| print.promo | resell    | —         | —             | high           | medium | 5      | Virtualia LLC                                |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| beauty.promo | premium   | $3,125    | —             | high           | low    | 6      | name.com                                     |
+| fancy.promo  | available | $19.99    | —             | high           | low    | 5      | name.com                                     |
+| abo.promo    | available | $11.98    | $33.48        | low            | low    | 3      | namecheap                                    |
+| bit.promo    | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| art.promo    | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap                                    |
+| ana.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| fast.promo   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                 |
+| ink.promo    | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                     |
+| ass.promo    | available | $11.98    | $33.48        | low            | low    | 3      | namecheap                                    |
+| view.promo   | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC                                |
+| lie.promo    | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo                                     |
+| ate.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| color.promo  | resell    | —         | —             | high           | low    | 5      | IONOS SE                                     |
+| tie.promo    | premium   | $1,875    | —             | high           | low    | 3      | name.com                                     |
+| beg.promo    | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
+| crazy.promo  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                  |
+| usa.promo    | premium   | $3,125    | —             | high           | medium | 3      | name.com                                     |
+| con.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| nurse.promo  | resell    | —         | —             | medium         | low    | 5      | IONOS SE                                     |
+| wow.promo    | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
