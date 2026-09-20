@@ -1,31 +1,31 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 a9355ccf-4c0a-4d8b-8aef-0b80d867e454,justsaying.promo,available,19.99,,medium,low,11,name.com,,,
 b2af7cf6-bc39-48aa-b9df-543db6bc2b9c,arthistory.promo,available,19.99,,high,low,11,name.com,,,
-ba4ef153-8902-4662-8cfb-cd161d17706e,WestHills.promo,available,19.99,,low,low,10,name.com,,,
+ba4ef153-8902-4662-8cfb-cd161d17706e,westhills.promo,available,19.99,,low,low,10,name.com,,,
 5cbf1357-d93b-49bc-a07e-db53dafeb0e6,supported.promo,available,19.99,,high,low,9,name.com,,,
-a15082d5-4ee4-4e0a-9602-d3ffc97bfadc,beauty.promo,premium,3125,,high,low,6,name.com,,,
+a15082d5-4ee4-4e0a-9602-d3ffc97bfadc,beauty.promo,premium,3450,3450,high,low,6,namesilo,,,19/09/2026 06:27
 6cd35556-4809-4646-99e0-aac24ef4fdf5,getwell.promo,available,19.99,,high,low,8,name.com,,,
 e092043e-e378-4d9c-84f0-583fda3a012d,thenandnow.promo,available,19.99,,low,low,12,name.com,,,
-2457a7ec-23a8-4b7c-b1f1-6390eb4cd2d7,USBdrive.promo,available,19.99,,high,low,9,name.com,,,
+2457a7ec-23a8-4b7c-b1f1-6390eb4cd2d7,usbdrive.promo,available,19.99,,high,low,9,name.com,,,
 a6743aff-1f0e-4b9e-bc16-8f27e41901e2,aureate.promo,available,19.99,,high,low,7,name.com,,,
 29d2ee64-8e64-4b87-b2c6-96149e89ab17,asterisked.promo,available,11.98,33.48,low,low,10,namecheap,,,07/08/2026 08:47
 206548a2-e666-4382-9801-39045e542c2a,blueberrypie.promo,available,19.99,,medium,low,13,name.com,,,
 7bd8c88e-427e-457c-a376-19c7ac9da14d,primarytooth.promo,available,19.99,,low,low,13,name.com,,,
 59cec727-03c5-493c-866a-8fb4fe78bc22,sharply.promo,available,19.99,,medium,low,7,name.com,,,
-15286952-c85c-4ba7-839c-bed08ad49c3b,Remington.promo,available,19.99,,high,low,9,name.com,,,
+15286952-c85c-4ba7-839c-bed08ad49c3b,remington.promo,available,19.99,,high,low,9,name.com,,,
 6c8ab01e-b7de-4556-9d0a-fb845856a477,track.promo,premium,625,625,high,medium,5,name.com,,,
 087f53a8-4eb1-454e-b0d9-6f8851dc3a06,adlib.promo,available,11.98,33.48,low,low,6,namecheap,,,
 92d0c387-2b50-4e91-bd25-4bad112d2eae,coffeeman.promo,available,19.99,,high,low,9,name.com,,,
 16fabe56-e33e-4e05-bdb8-1b91271a452d,grandchild.promo,available,19.99,,medium,low,10,name.com,,,
 71e418c2-284f-455a-b913-4b9f24ec1af6,whitesatin.promo,available,19.99,,low,low,11,name.com,,,
 141522d8-c57e-4820-ab1d-0029e60487f2,burgerbun.promo,available,19.99,,high,low,10,name.com,,,
-810449bf-f6bc-4d72-b236-852d090c221d,Guys.promo,available,19.99,,medium,low,4,name.com,,,
+810449bf-f6bc-4d72-b236-852d090c221d,guys.promo,available,19.99,,medium,low,4,name.com,,,
 1e563f37-a2ce-47d2-b06b-803efeb19ce8,appetent.promo,available,11.98,33.48,low,low,8,namecheap,,,06/08/2026 06:40
 4699de6e-ad54-4d2c-a0b2-36c2f1706563,pointofview.promo,available,19.99,,low,low,13,name.com,,,
 50596d51-cd75-463f-b604-87de6c59a1f8,meaningful.promo,available,19.99,,high,low,10,name.com,,,
 f0f43421-5be0-4f5f-9582-01805288b96d,spiderweb.promo,available,19.99,,high,low,10,name.com,,,
 c79a818f-1262-44a1-bf9b-a297ef226ee0,luckystreak.promo,available,19.99,,high,low,12,name.com,,,
-a9a10a6e-55db-42d6-8873-43e37be10d60,related.promo,available,11.98,33.48,medium,low,7,namecheap,,,14/09/2026 04:17
+a9a10a6e-55db-42d6-8873-43e37be10d60,related.promo,available,11.98,33.48,low,low,7,namecheap,,,19/09/2026 12:07
 a36c5c10-0f13-4581-8cae-9f18be4f375c,basilican.promo,available,11.98,33.48,low,low,9,namecheap,,,08/08/2026 22:27
 c5032f94-ed05-4c2a-b679-149cde30cd6f,print.promo,resell,,,high,medium,5,Virtualia LLC,23/10/2023 15:15,23/10/2026 15:15,
 fa4ac49e-ca95-4408-9997-0fa608e5fd97,risk.promo,available,11.98,33.48,medium,low,4,namecheap,,,08/09/2026 12:49
@@ -42,7 +42,7 @@ ded4fb44-88e2-431b-81fb-76d550260e5f,sanctioned.promo,available,11.98,33.48,low,
 e1cee94b-4199-4e48-83b4-79f4a6063411,dear.promo,available,19.99,,high,low,4,name.com,,,
 7d1ac468-28b4-4cf2-853b-88afd6559133,pain.promo,available,19.99,,high,low,4,name.com,,,
 2c604a37-9c72-4901-9226-4727998df148,jay.promo,available,19.99,,medium,low,3,name.com,,,
-b9bec048-56e2-4850-bb8e-00e8aeef1be8,turmeric.promo,available,11.98,33.48,medium,low,8,namecheap,,,12/09/2026 11:21
+b9bec048-56e2-4850-bb8e-00e8aeef1be8,turmeric.promo,available,14.49,24.99,medium,low,8,namesilo,,,19/09/2026 15:28
 a4587f6d-69da-4df2-9eb5-0c15c65546b8,alamode.promo,available,19.99,35.99,high,low,9,name.com,,,
 8bb52cfa-c351-4213-8cd5-343b890b66ca,fort.promo,available,19.99,,medium,low,4,name.com,,,
 8a18916f-c395-4455-9f26-1a41dbea7561,dull.promo,available,19.99,,medium,low,4,name.com,,,
@@ -64,8 +64,8 @@ d996a3fb-0fff-40bb-aab0-4b5269d8ea81,shoeless.promo,available,11.98,33.48,low,lo
 47558f97-2de3-4fc8-8aea-90f5aaefe456,agrypnotic.promo,available,11.98,33.48,low,low,10,namecheap,,,
 8df6466e-320d-44e6-bda8-cb514df0a231,bare.promo,available,19.99,,medium,low,4,name.com,,,
 b717bb55-bf1c-4837-b6ce-563cfcdb7478,cutto.promo,available,19.99,,medium,low,6,name.com,,,
-de9195b9-74f8-4176-8521-6c66f37a6532,end.promo,available,11.98,33.48,medium,low,3,namecheap,,,12/09/2026 12:19
-fdf91a26-7463-46cf-b83e-a1cd54a5cd16,RGB.promo,available,19.99,,medium,low,3,name.com,,,
+de9195b9-74f8-4176-8521-6c66f37a6532,end.promo,available,14.49,24.99,medium,low,3,namesilo,,,19/09/2026 15:33
+fdf91a26-7463-46cf-b83e-a1cd54a5cd16,rgb.promo,available,19.99,,medium,low,3,name.com,,,
 6695f400-f5cb-4745-b97e-7a8df5ca38bf,wheretheheck.promo,available,19.99,,low,low,14,name.com,,,
 4ed0ccb4-ec70-4cba-b5f1-3f582f9525b7,zooming.promo,available,19.99,,high,low,7,name.com,,,
 bdb9bd10-e1fa-47e1-9373-d50b74fc0f2c,roasted.promo,available,19.99,,medium,low,7,name.com,,,
@@ -75,12 +75,12 @@ bdb9bd10-e1fa-47e1-9373-d50b74fc0f2c,roasted.promo,available,19.99,,medium,low,7
 831ade39-cf0f-4f71-8a45-b82a5cb38fff,sickabed.promo,available,11.98,33.48,low,low,9,namecheap,,,09/08/2026 07:12
 1bb48c24-1130-4cfe-8fdf-5b4ba19ff912,soasto.promo,available,19.99,,low,low,8,name.com,,,
 3ef582d2-fe4e-4c8c-a51b-25c44024d06e,treasure.promo,premium,1107,1107,high,low,8,namesilo,,,
-e7bc4e65-cd80-469d-8d95-451d0130eea7,Philips.promo,available,,,high,low,7,,,,
+e7bc4e65-cd80-469d-8d95-451d0130eea7,philips.promo,available,,,high,low,7,,,,
 c4c9c46b-52ed-40f3-8f63-ad4d446df531,tormented.promo,available,11.98,33.48,low,low,9,namecheap,,,
 81ee2108-22f7-4e5f-b349-860d87ab1bd9,prenominal.promo,available,11.98,33.48,low,low,10,namecheap,,,07/08/2026 15:56
 7298668c-a52d-41e7-92dc-0116cccd49b4,adamantine.promo,available,11.98,33.48,low,low,10,namecheap,,,
 b4f5fde5-ac18-41f7-9ea2-90d88d92e11c,going.promo,available,19.99,,high,low,5,name.com,,,
-cfc1ab78-9cd6-4680-b8f1-6ac880190c94,PuertoRico.promo,available,,,low,low,11,,,,
+cfc1ab78-9cd6-4680-b8f1-6ac880190c94,puertorico.promo,available,,,low,low,11,,,,
 5105daf4-a1e7-4a09-86d9-490081a78c78,valid.promo,available,19.99,,high,low,5,name.com,,,
 26e645fe-3da9-4108-9cb1-1cde23a31c55,barbed.promo,available,11.98,33.48,low,low,6,namecheap,,,08/08/2026 16:36
 0343cb21-30b3-4ce5-bdfc-f1013f62b7a1,eyecatching.promo,available,19.99,,high,low,12,name.com,,,
@@ -88,7 +88,7 @@ cfc1ab78-9cd6-4680-b8f1-6ac880190c94,PuertoRico.promo,available,,,low,low,11,,,,
 5f00a361-0ec7-43c0-83da-b28b6ccbd203,reliability.promo,available,19.99,,medium,low,11,name.com,,,
 697ebaa9-1e8f-4039-8e72-dc2992fb056b,anorectic.promo,available,11.98,33.48,low,low,9,namecheap,,,
 4d948edd-1f89-4d27-8193-a8c7485e0135,adulatory.promo,available,11.98,33.48,low,low,9,namecheap,,,
-adce96fe-cf9c-45ca-b542-3483a295d338,Westlake.promo,available,19.99,,medium,low,8,name.com,,,
+adce96fe-cf9c-45ca-b542-3483a295d338,westlake.promo,available,19.99,,medium,low,8,name.com,,,
 bb11f101-9bd0-4def-9931-fe88437f2e89,instant.promo,premium,3125,3125,high,low,7,name.com,,,
 f2f9aee7-af10-42fd-8f34-70bbecf2d25c,knockover.promo,available,19.99,,medium,low,10,name.com,,,
 1714c12f-06ef-4d72-bfc6-06286bd9309a,easily.promo,available,19.99,35.99,high,low,6,name.com,,,
@@ -124,7 +124,7 @@ bd3f189c-2053-4b18-ab49-455cee1f848e,jar.promo,available,19.99,,high,low,3,name.
 50676049-9a1a-4be9-ad28-fcd80b27cd5b,adviseable.promo,available,19.99,,medium,low,10,name.com,,,
 6d4012c0-fa63-4ebb-a59a-ad61c60460b7,anoestrous.promo,available,11.98,33.48,low,low,10,namecheap,,,
 6dd17097-d61d-45bb-ba9e-0f4f8aab6dc7,masters.promo,available,19.99,,high,low,7,name.com,,,
-14cba290-aba0-4ac9-9b7e-70e3d16a1b05,OurFather.promo,available,19.99,,low,low,10,name.com,,,
+14cba290-aba0-4ac9-9b7e-70e3d16a1b05,ourfather.promo,available,19.99,,low,low,10,name.com,,,
 fcda5eeb-b85b-4060-ad5c-1b95da442194,setabout.promo,available,19.99,,low,low,9,name.com,,,
 38c1e30f-3433-454a-86ba-f728a436174e,federal.promo,available,19.99,,high,low,7,name.com,,,
 fcdd5880-ebab-4ab3-aebb-b8524ca25b8e,apothecial.promo,available,11.98,33.48,low,low,10,namecheap,,,06/08/2026 04:20
@@ -173,7 +173,7 @@ cb57948e-1b5a-4d51-8d43-17fcb0f52e69,write.promo,available,19.99,,high,low,5,nam
 c3fcf61e-1391-48c2-ad76-1da0e02c9de9,hopeful.promo,available,19.99,,high,low,7,name.com,,,
 22dc7a6f-7ffe-4035-b4ef-0bd9c80c6ee7,aurorean.promo,available,11.98,33.48,low,low,8,namecheap,,,07/08/2026 18:12
 c648cf59-7861-49e4-a49d-c5e863c79210,fast.promo,resell,,,high,medium,4,"Sav.com, LLC",17/06/2025 17:00,17/06/2026 17:00,
-d0b5597e-42f6-4266-a56e-791813e0dbee,Pamela.promo,available,19.99,,high,low,6,name.com,,,
+d0b5597e-42f6-4266-a56e-791813e0dbee,pamela.promo,available,19.99,,high,low,6,name.com,,,
 893d82e7-1a51-481c-ae01-519862d9b1bc,intrinsic.promo,available,19.99,,high,low,9,name.com,,,
 11e0e59f-55ef-4c62-8003-abeaf2a43775,odd.promo,available,19.99,35.99,high,low,3,name.com,,,
 87d0a420-464f-4722-aacf-a11725be0ff9,cheerfully.promo,available,19.99,,high,low,10,name.com,,,
@@ -199,7 +199,7 @@ a94a21cf-86e3-4cab-877f-e4973f118f26,full.promo,available,19.99,,medium,low,4,na
 ed60a9ec-c29e-4abc-9ed7-673188a82332,allied.promo,available,19.99,35.99,high,low,6,name.com,,,
 d5192d11-ca8e-43cd-b177-898ee866ea26,melt.promo,available,19.99,,high,low,4,name.com,,,
 db4fc88d-becb-46e4-86db-964183090a97,refrigerator.promo,premium,3125,,high,low,12,name.com,,,
-514090b6-0c81-45be-9387-8904c72c3a40,rain.promo,available,11.98,33.48,medium,low,4,namecheap,,,15/09/2026 03:53
+514090b6-0c81-45be-9387-8904c72c3a40,rain.promo,available,14.49,24.99,medium,low,4,namesilo,,,19/09/2026 07:28
 1807acf1-52c0-4eb0-908f-51f0521fcd7d,seventieth.promo,available,11.98,33.48,low,low,10,namecheap,,,
 814c4d36-af38-4e81-b1f0-7d6e71199e39,vertical.promo,available,19.99,,high,low,8,name.com,,,
 9b4a5ddd-79b8-4691-91ce-569cda7b71dd,ilx.promo,available,11.98,33.48,low,low,3,namecheap,,,
@@ -220,7 +220,7 @@ ce2352d6-0ee6-4f35-924b-ac94694b4422,seeingthat.promo,available,19.99,,medium,lo
 0880106d-7478-46ea-9521-5c176365fc2b,aboveground.promo,available,19.99,,medium,low,12,name.com,,,
 83ea89b3-0f3d-4e08-a782-fbb08ad79b92,hassle.promo,available,19.99,,high,low,6,name.com,,,
 38257da1-2145-4ae8-b239-3ba469bf0279,bars.promo,premium,3125,,high,low,4,name.com,,,
-071ddda8-088d-48c3-9a40-7bf26deb82fa,series.promo,available,11.98,33.48,medium,low,6,namecheap,,,15/09/2026 03:19
+071ddda8-088d-48c3-9a40-7bf26deb82fa,series.promo,available,11.98,33.48,medium,low,6,namecheap,,,19/09/2026 17:55
 1bb65166-2b60-4b23-a762-a4c6b897a430,reader.promo,available,19.99,,high,low,6,name.com,,,
 568b6656-2cff-4823-bee9-0a82eee23c9a,thoseones.promo,available,19.99,,low,low,10,name.com,,,
 e6f3adf8-5768-46c7-a794-062143de44de,wideopen.promo,available,19.99,,medium,low,9,name.com,,,
@@ -244,7 +244,7 @@ df02529f-321c-44a4-8c4c-1d21b41aca73,beakless.promo,available,11.98,33.48,low,lo
 2d584cd2-0f59-4987-b769-0b47b83db66d,finale.promo,available,19.99,,high,low,6,name.com,,,
 51907479-5a71-488e-acfa-94912a26e804,shoulders.promo,available,19.99,,low,low,9,name.com,,,
 ec818822-3b56-473f-88d0-8729aa8d294b,acts.promo,available,19.99,,medium,low,4,name.com,,,
-c6a6003b-1918-4b21-8a7b-f85aabdcbf88,IwishImaybeshot.promo,available,19.99,,medium,low,20,name.com,,,
+c6a6003b-1918-4b21-8a7b-f85aabdcbf88,iwishimaybeshot.promo,available,19.99,,medium,low,20,name.com,,,
 ab732c66-1b05-4ff4-b632-8013d88867e3,goout.promo,available,19.99,,high,low,6,name.com,,,
 8139a385-abb8-43c7-a65a-c4e7ba12c5a7,loaded.promo,available,11.98,33.48,low,low,6,namecheap,,,
 6e795f96-1d55-469a-a38f-0d748640c9a7,scratchy.promo,available,11.98,33.48,low,low,8,namecheap,,,
@@ -263,9 +263,9 @@ b534fe8c-a7bb-42a1-80f3-6f54971f6fe1,digits.promo,available,19.99,,high,low,6,na
 725bd116-d509-4fc6-87ac-b5b6386bde73,yearend.promo,available,19.99,,high,low,8,name.com,,,
 b83c383d-d004-4fde-a461-579857492770,sad.promo,available,19.99,35.99,high,low,3,name.com,,,
 fdbc37bd-5356-4584-a86d-dd9b00596e4c,mazed.promo,available,11.98,33.48,low,low,5,namecheap,,,07/08/2026 12:07
-63e4be6e-cfcf-42a9-a68f-1897d7a89e24,WikiLeaks.promo,available,19.99,,low,low,9,name.com,,,
+63e4be6e-cfcf-42a9-a68f-1897d7a89e24,wikileaks.promo,available,19.99,,low,low,9,name.com,,,
 e5789a5d-f720-4988-bf67-d9451ec894b7,cognisant.promo,available,11.98,33.48,low,low,9,namecheap,,,08/08/2026 00:18
-35e0cd1b-96bb-409b-8fed-297585a865a3,advertising.promo,premium,3250,3250,medium,low,11,namecheap,,,14/09/2026 02:28
+35e0cd1b-96bb-409b-8fed-297585a865a3,advertising.promo,premium,3450,3450,medium,low,11,namesilo,,,19/09/2026 09:14
 0164d7e5-496b-4eb4-9875-fa7d5519e33b,heptad.promo,available,11.98,33.48,low,low,6,namecheap,,,
 b01cca5d-ebc4-4282-9705-e0df2a1b8222,hardy.promo,available,19.99,,medium,low,5,name.com,,,
 8b2080bd-fd3c-4b00-bbb2-566cb5e83c90,citizen.promo,available,19.99,,high,low,7,name.com,,,
@@ -324,7 +324,7 @@ d2244ff8-ab1c-4a5c-88d8-797ed8a51f67,sketchout.promo,available,19.99,,medium,low
 0e6d404f-b19e-43d1-a7a0-2c5150998b67,bit.promo,resell,,,high,medium,3,"Xiamen ChinaSource Internet Service Co., Ltd",05/09/2023 17:00,05/09/2026 17:00,
 44af1041-97c0-4207-8ff1-80fd9643bcbd,advertisement.promo,premium,1107,1107,high,low,13,namesilo,,,
 86ca2ff3-8a85-4e13-a354-9d7dec1d37a0,numlock.promo,available,19.99,,medium,low,8,name.com,,,
-2bc10202-dfc1-492f-ae76-02fa842b1849,Philadelphia.promo,premium,3125,,high,low,12,name.com,,,
+2bc10202-dfc1-492f-ae76-02fa842b1849,philadelphia.promo,premium,3125,,high,low,12,name.com,,,
 dec59e96-69fc-4102-8714-e1a0cce45f56,dose.promo,available,19.99,,high,low,4,name.com,,,
 8f9ec73c-a806-4f7d-9032-dd3a3f7b79dd,seriously.promo,available,19.99,,medium,low,9,name.com,,,
 c88a8f12-67a4-42ec-9a52-cd223b891318,testimony.promo,available,19.99,,medium,low,9,name.com,,,
@@ -342,7 +342,7 @@ fd173a94-60d9-4b5c-9dc9-d0329ed65b31,doyoumind.promo,available,19.99,,medium,low
 7f1ec663-fb8b-4462-a53f-d3299c3d8cc2,recondite.promo,available,11.98,33.48,low,low,9,namecheap,,,
 6a1980c6-73ba-4cf7-a913-9e1fe388515b,bound.promo,available,19.99,,medium,low,5,name.com,,,
 2bc7d77f-a179-495a-bb82-87f4c49cf9b2,headup.promo,available,19.99,,high,low,7,name.com,,,
-c5c74a12-eb0a-4dcd-a976-e33728557d61,buffet.promo,available,11.98,33.48,medium,low,6,namecheap,,,14/09/2026 03:26
+c5c74a12-eb0a-4dcd-a976-e33728557d61,buffet.promo,available,14.49,24.99,medium,low,6,namesilo,,,19/09/2026 17:05
 9640405d-7304-475f-b1e4-1bb220358dc8,facilitating.promo,available,19.99,,medium,low,12,name.com,,,
 f44a49be-5e8b-4552-bb81-d13fe7c4b222,cyan.promo,available,19.99,,high,low,4,name.com,,,
 cb9c5cc1-ded6-4c26-a633-8e8c94580623,aone.promo,available,11.98,33.48,low,low,5,namecheap,,,
@@ -357,7 +357,6 @@ dbbea587-6b17-4e3d-9d04-fd4ac7f3f45b,atthebestoftimes.promo,available,19.99,,hig
 c62bfdf5-aa91-4031-8c49-0f545546ce80,untrustworthy.promo,available,19.99,,low,low,13,name.com,,,
 4d40b211-0db6-4afe-afeb-111f8d3259c9,barefaced.promo,available,11.98,33.48,low,low,9,namecheap,,,08/08/2026 09:20
 d6a8d00d-58bb-419e-be7a-3e7951a2b0f7,bravery.promo,available,19.99,,high,low,7,name.com,,,
-5ce656f7-ad1f-4814-9147-3f3e33cbdbe4,box.promo,available,,,medium,low,3,,,,
 36939b80-d70a-4ed8-bf68-76db7ba97a70,ike.promo,available,19.99,,high,low,3,name.com,,,
 ba4d18a6-4692-4737-99a0-d3f519141f19,evening.promo,available,19.99,,high,low,7,name.com,,,
 4c50d153-2baf-460a-823e-0edcceaa8d03,asiatic.promo,available,11.98,33.48,low,low,7,namecheap,,,07/08/2026 02:29
@@ -415,7 +414,7 @@ c753da9e-3658-477d-832b-9c965244e108,convincing.promo,available,19.99,35.99,high
 f038ae11-d752-4f59-8770-1b4bfbd0f506,auric.promo,available,11.98,33.48,low,low,5,namecheap,,,07/08/2026 17:36
 05612133-c272-420b-bba4-28f91b741cec,avestan.promo,available,11.98,33.48,low,low,7,namecheap,,,07/08/2026 23:07
 b0fa7b0b-70dc-48b4-bb09-18dd88595e09,antifungal.promo,available,11.98,33.48,low,low,10,namecheap,,,
-c964f5d1-d782-4d07-ad28-3fe29a83c088,ElSalvador.promo,available,,,medium,low,11,,,,
+c964f5d1-d782-4d07-ad28-3fe29a83c088,elsalvador.promo,available,,,medium,low,11,,,,
 25249e8d-56f2-4620-b1da-34bdf4177afc,astonished.promo,available,19.99,,medium,low,10,name.com,,,
 92fdbff5-12bb-46eb-83d9-f60984ad2bf1,worn.promo,available,19.99,,medium,low,4,name.com,,,
 7f699c06-1f13-494c-999a-137141cf39ca,surfboard.promo,available,19.99,,high,low,9,name.com,,,
@@ -423,7 +422,7 @@ c964f5d1-d782-4d07-ad28-3fe29a83c088,ElSalvador.promo,available,,,medium,low,11,
 2f694d6d-e73c-4467-9fe7-1d5b285f4b45,fifth.promo,available,11.98,33.48,low,low,5,namecheap,,,
 85447454-6825-422a-9a67-24059b897632,verbal.promo,available,19.99,,high,low,6,name.com,,,
 9c0ae143-a52c-4e65-857f-ea77f7fcbb9e,recorded.promo,available,19.99,,medium,low,8,name.com,,,
-c3c332bf-81fd-4638-a6d4-455ec1f69257,news.promo,premium,625,,high,medium,4,name.com,,,
+c3c332bf-81fd-4638-a6d4-455ec1f69257,news.promo,premium,640,640,medium,low,4,namesilo,,,20/09/2026 02:58
 c37cd847-7a6d-49b8-adc9-d9465883531e,bless.promo,available,19.99,,high,low,5,name.com,,,
 33c25358-84c0-44e7-94c1-b8247a507f76,leather.promo,premium,1107,1107,medium,low,7,namesilo,,,
 c755d7e1-d2c4-4d6b-8d84-986fafcb8f6f,dothelaundry.promo,available,19.99,,medium,low,14,name.com,,,
@@ -435,12 +434,12 @@ f275e9ca-2ab1-4421-8700-bb6ef34d5e1a,mostly.promo,available,19.99,,medium,low,6,
 4dfb6694-f8f7-4c17-834c-e87c59c6cea6,noticed.promo,available,19.99,,high,low,7,name.com,,,
 1f221d90-3853-4789-bb26-7983fe97c6b7,aucourant.promo,available,11.98,33.48,low,low,10,namecheap,,,
 e18324ad-26d3-4fe4-b5d1-6e9a36503d56,basics.promo,available,19.99,,high,low,6,name.com,,,
-818a9525-6afb-4f49-b36c-ae86f544d8f1,engineering.promo,available,11.98,33.48,medium,low,11,namecheap,,,08/09/2026 14:58
+818a9525-6afb-4f49-b36c-ae86f544d8f1,engineering.promo,available,14.49,24.99,medium,low,11,namesilo,,,19/09/2026 11:00
 f874c26d-2646-4920-8e0c-e0bb0985d34c,lying.promo,available,19.99,,high,low,5,name.com,,,
 d2e64e99-c21d-4800-bc7b-51635cd7f168,beatable.promo,available,11.98,33.48,low,low,8,namecheap,,,09/08/2026 05:37
 ef645a5b-5650-420a-864a-85d91e80f4f1,thirtieth.promo,available,11.98,33.48,low,low,9,namecheap,,,
 30cf4708-b158-46eb-aed0-db872a29bab3,million.promo,available,19.99,,high,low,7,name.com,,,
-095eb7da-ca32-4b78-82c0-2e9c7585f497,Codes.promo,available,,,medium,low,5,,,,
+095eb7da-ca32-4b78-82c0-2e9c7585f497,codes.promo,available,,,medium,low,5,,,,
 34879d46-2db8-42ef-bf0a-26156d26f94b,giveandtake.promo,available,19.99,,high,low,13,name.com,,,
 5da01d95-b1db-4e21-b9ab-c0298d93bdd1,scornful.promo,available,19.99,35.99,medium,low,8,name.com,,,
 164f2121-b259-4cf2-ba60-f71c7ead3ad2,impossible.promo,available,19.99,,high,low,10,name.com,,,
@@ -452,9 +451,9 @@ f95cb8d6-b810-487d-9420-8692391bd811,proclaiming.promo,available,19.99,,high,low
 af3b1a74-ca6e-4580-b55b-2850ab3ed737,movies.promo,premium,3125,,medium,low,6,name.com,,,
 f225aec0-d910-4eef-b4e6-47722c41ced3,comfy.promo,available,19.99,,high,low,5,name.com,,,
 4f4fd9b2-bc2d-4375-86c1-83faf008c318,archaean.promo,available,11.98,33.48,low,low,8,namecheap,,,06/08/2026 15:11
-cc982612-f612-4d56-b9ce-ceb01d5f4ad6,Nickelodeon.promo,available,19.99,,high,low,11,name.com,,,
+cc982612-f612-4d56-b9ce-ceb01d5f4ad6,nickelodeon.promo,available,19.99,,high,low,11,name.com,,,
 38d2dfcc-19fe-4f74-ab37-b3061971aa39,everyone.promo,available,19.99,,medium,low,8,name.com,,,
-e337fa70-5b8e-48a9-af43-f84a0684e290,Canadas.promo,available,19.99,,medium,low,7,name.com,,,
+e337fa70-5b8e-48a9-af43-f84a0684e290,canadas.promo,available,19.99,,medium,low,7,name.com,,,
 14eb6f87-6973-4f4b-86e5-c6cf34e2f343,prick.promo,available,11.98,33.48,low,low,5,namecheap,,,08/08/2026 23:38
 4ec4bd7d-9758-4ee3-be71-072f6adf6af1,getthelastlaugh.promo,available,19.99,,high,low,18,name.com,,,
 5366a759-00e1-4e1e-b7ef-fa502099cbdf,oldhat.promo,available,11.98,33.48,low,low,7,namecheap,,,08/08/2026 11:01
@@ -487,7 +486,7 @@ fa43c08c-5fee-433a-8dc6-8e7530c7da6c,giveahoot.promo,available,19.99,,high,low,1
 8442c00a-9d02-4272-ba38-8d97cc9062b1,mall.promo,premium,3125,,high,low,4,name.com,,,
 57638e30-eba1-4c9f-bd1c-90a57ac5acfd,jeep.promo,available,,,medium,low,4,,,,
 db6f2969-3ee3-4e17-839e-72d53403b97f,generalsurgery.promo,available,19.99,,high,low,15,name.com,,,
-c01380f6-8eb0-4cfe-8a78-35607c1885fe,midOctober.promo,available,19.99,,high,low,11,name.com,,,
+c01380f6-8eb0-4cfe-8a78-35607c1885fe,midoctober.promo,available,19.99,,high,low,11,name.com,,,
 8a577c2f-f52f-4596-9e74-27a72458779b,bull.promo,available,19.99,,medium,low,4,name.com,,,
 0cf3457d-c320-4629-8765-90edc43ec736,vain.promo,available,19.99,,medium,low,4,name.com,,,
 63cfc604-5dfb-450b-b502-105f055bc43c,wearthepants.promo,available,19.99,,low,low,14,name.com,,,
@@ -499,7 +498,7 @@ c01380f6-8eb0-4cfe-8a78-35607c1885fe,midOctober.promo,available,19.99,,high,low,
 125c87c2-9e39-4ab7-8da5-6fdc13e307e6,bluecheese.promo,available,19.99,,high,low,11,name.com,,,
 732d9144-8218-42d0-8e79-c7fdf618a866,polonecksweater.promo,available,19.99,,high,low,17,name.com,,,
 eaaf85d5-9ff2-43d5-96b9-3f0d29c10a6b,moldy.promo,available,19.99,,medium,low,5,name.com,,,
-df31e8fc-5e9b-4b86-a229-8dca7cae330d,StFrancis.promo,available,19.99,,medium,low,11,name.com,,,
+df31e8fc-5e9b-4b86-a229-8dca7cae330d,stfrancis.promo,available,19.99,,medium,low,11,name.com,,,
 b4e12ded-d1ac-4f72-bf98-f078ce46769b,must.promo,available,19.99,,high,low,4,name.com,,,
 7c5b41af-a7a3-4140-a447-9c66580ab641,befogged.promo,available,11.98,33.48,low,low,8,namecheap,,,09/08/2026 08:43
 5cb0d190-240c-4257-beea-a9598cf80c3b,goin.promo,available,14.49,24.99,low,low,5,namesilo,,,16/09/2026 23:43
@@ -524,7 +523,7 @@ f3f3f6a3-95a6-4ca7-9c9b-9dc4081e1c25,blockaded.promo,available,11.98,33.48,low,l
 c98d2aa6-36cf-4e5f-b2a6-8834d55bed2d,dentist.promo,resell,,,high,low,7,IONOS SE,25/11/2025 21:56,25/11/2026 21:56,
 cb2d4298-40a1-44ad-82dd-9f1521a10c86,ohmygosh.promo,available,19.99,,high,low,8,name.com,,,
 e1af2a90-f2ee-41b1-a183-287b4d81dc34,pal.promo,available,19.99,,high,low,3,name.com,,,
-b99376c4-14bb-4c57-945e-c9569c648bf8,screen.promo,resell,,,high,low,6,"GoDaddy.com, LLC",18/07/2023 02:13,18/07/2028 02:13,
+b99376c4-14bb-4c57-945e-c9569c648bf8,screen.promo,resell,,,low,low,6,"GoDaddy.com, LLC",18/07/2023 02:13,18/07/2028 02:13,19/09/2026 13:37
 56ce39e0-23ac-4395-ba62-13a7dcfc40d2,lizard.promo,available,19.99,,medium,low,6,name.com,,,
 54c53938-e0f4-4abe-841b-45811db615b4,onbase.promo,available,11.98,33.48,low,low,7,namecheap,,,15/09/2026 17:31
 ca920898-4aa0-4787-9679-373877f1aa0a,frequently.promo,available,19.99,,medium,low,10,name.com,,,
@@ -551,7 +550,7 @@ eb41721f-cd8b-44de-9a6b-de5dbd174979,closeorder.promo,available,19.99,,medium,lo
 05272ba4-1fbe-4307-b9db-8947a46892c5,adjustable.promo,available,19.99,35.99,high,low,10,name.com,,,
 65368904-8658-43a7-851b-30c184c9625a,ana.promo,available,19.99,,high,low,3,name.com,,,
 260d63a6-142f-4c46-b671-e7fd1584ae59,luck.promo,available,19.99,,high,low,4,name.com,,,
-88f3bb8d-090a-482b-9457-8f8aaed0f809,movie.promo,premium,1107,1107,high,low,5,namesilo,,,
+88f3bb8d-090a-482b-9457-8f8aaed0f809,movie.promo,premium,1107,1107,medium,low,5,namesilo,,,20/09/2026 03:25
 72f34ae8-3c99-4faf-9894-bf1f772d997c,lookupon.promo,available,19.99,,high,low,9,name.com,,,
 d586c71d-92ff-4c3d-91e2-839d07cff4e4,condiment.promo,available,19.99,,high,low,9,name.com,,,
 6d169af3-5abd-43ef-b395-c42c31f5ad56,currently.promo,available,19.99,,medium,low,9,name.com,,,
@@ -563,10 +562,10 @@ b2120128-cb83-4e47-9754-c5512abb4111,seeing.promo,available,19.99,,high,low,6,na
 90010c4e-4868-4337-a96c-23bc23b96986,their.promo,available,19.99,,low,low,5,name.com,,,
 edd97986-0b8c-48dc-9c00-248d93906175,payattention.promo,available,19.99,,low,low,13,name.com,,,
 6a1725fe-b207-44eb-b0fa-9428fa213932,quite.promo,available,19.99,,high,low,5,name.com,,,
-3129f6d0-3d65-4a4b-b0bd-205323f1c6f6,business.promo,premium,3250,3250,high,medium,8,namecheap,,,
+3129f6d0-3d65-4a4b-b0bd-205323f1c6f6,business.promo,premium,3450,3450,medium,low,8,namesilo,,,19/09/2026 02:33
 15148245-d812-477b-b38e-6203ba1b4d46,nationwide.promo,available,,,high,medium,10,,,,
 ae95b0f0-9f56-4ee3-813c-f403c308ad2e,caustic.promo,available,11.98,33.48,low,low,7,namecheap,,,
-47230abc-2c5f-4174-82c8-8d6c613c9d78,StPetersburgh.promo,available,19.99,,medium,low,15,name.com,,,
+47230abc-2c5f-4174-82c8-8d6c613c9d78,stpetersburgh.promo,available,19.99,,medium,low,15,name.com,,,
 f4df932d-b7d1-49a8-a711-66d9fefe8806,vinegary.promo,available,11.98,33.48,low,low,8,namecheap,,,
 12f08734-3202-4ebc-b797-ee80e269a875,confide.promo,available,19.99,,high,low,7,name.com,,,
 5858919c-d856-482d-b85d-09b4c6aad65d,setaceous.promo,available,11.98,33.48,low,low,9,namecheap,,,08/08/2026 17:44
@@ -626,15 +625,14 @@ a49d96ba-5042-4073-b383-7dd3b3786ab2,oddfish.promo,available,19.99,,low,low,8,na
 fb7a7727-0323-4de7-b6f2-20a4140c0689,archaist.promo,available,11.98,33.48,low,low,8,namecheap,,,
 95996114-e3d9-4892-b506-07330f4b7729,produce.promo,available,19.99,,high,low,7,name.com,,,
 e2278270-9cba-4d7f-b2ce-7803c9f7fe73,hindmost.promo,available,11.98,33.48,low,low,8,namecheap,,,08/08/2026 06:04
-0c487e11-f69c-4fd7-aec6-9a5faf1b58c7,StStephen.promo,available,19.99,,medium,low,10,name.com,,,
+0c487e11-f69c-4fd7-aec6-9a5faf1b58c7,ststephen.promo,available,19.99,,medium,low,10,name.com,,,
 311a8c95-cebc-4df3-b71b-c7a64f01531d,assess.promo,available,19.99,,high,low,6,name.com,,,
 ba0ec2a8-9144-47e6-8d26-8c0c6aea1be2,absence.promo,available,19.99,,medium,low,7,name.com,,,
 21c1c8e9-77fd-4df3-8e19-dd95a7f1bc28,muhfuckah.promo,available,19.99,,medium,low,9,name.com,,,
-193caf44-3f78-4627-b472-1477b572a1fa,Iknow.promo,available,19.99,,medium,low,6,name.com,,,
+193caf44-3f78-4627-b472-1477b572a1fa,iknow.promo,available,19.99,,medium,low,6,name.com,,,
 576b8757-ea7e-409e-a874-1f6a3a1ffbc1,axiomatic.promo,available,11.98,33.48,low,low,9,namecheap,,,05/08/2026 23:27
-ff7ccd96-a36f-44a2-89d9-5c8cd587039a,think.promo,available,,,high,low,5,,,,
 5ffab11e-cf70-4694-a904-0f20f24b0042,sep.promo,available,19.99,,high,low,3,name.com,,,
-b5195006-e659-41d1-bace-b6717c065847,art.promo,premium,1300,1300,high,medium,3,namecheap,,,
+b5195006-e659-41d1-bace-b6717c065847,art.promo,premium,1107,1107,medium,low,3,namesilo,,,19/09/2026 05:34
 af3a8b34-156a-433e-b78b-cdaaf608fd02,ticking.promo,available,19.99,,medium,low,7,name.com,,,
 cd54556c-37c1-48bc-b3f3-ccafa270b63f,pastoral.promo,available,11.98,33.48,low,low,8,namecheap,,,06/08/2026 14:20
 bd2e2d0e-f2a2-4530-8f41-85fca3c0a49c,buck.promo,available,19.99,,medium,low,4,name.com,,,
@@ -645,13 +643,13 @@ a61741b2-0586-4136-ab49-ddad0a711266,quarterof.promo,available,19.99,,low,low,10
 cbdc02dd-e731-4737-aa6e-8fdeb51c9595,unending.promo,available,11.98,33.48,low,low,8,namecheap,,,
 08038011-98cd-466b-a38b-1e7d24f940dc,teal.promo,available,19.99,,high,low,4,name.com,,,
 1ff6528d-4c6a-4fa9-a277-f814deeee091,comic.promo,available,19.99,,high,low,5,name.com,,,
-83afe805-1f87-4536-a859-744454698f50,HBO.promo,available,,,high,low,3,,,,
+83afe805-1f87-4536-a859-744454698f50,hbo.promo,available,,,high,low,3,,,,
 e48dd1ca-701d-413f-a4bc-7ff53c214286,oregon.promo,premium,1107,1107,medium,low,6,namesilo,,,
 389f6a5d-8b45-4594-8f6c-05d3096804e8,hold.promo,available,19.99,,high,low,4,name.com,,,
 4f1b6594-268a-415e-8e4b-fb66f8dc33f1,explorer.promo,available,19.99,,high,low,8,name.com,,,
 e14f1ec6-b8d2-4579-9568-4e8a13612517,eased.promo,available,11.98,33.48,low,low,5,namecheap,,,
 27178b1a-a25c-4417-9431-824d9e2f347b,negotiable.promo,available,11.98,33.48,low,low,10,namecheap,,,07/08/2026 06:30
-825f61ef-d0f2-4b57-8ce3-f1e0fcbcd4e0,Christianname.promo,available,19.99,,high,low,14,name.com,,,
+825f61ef-d0f2-4b57-8ce3-f1e0fcbcd4e0,christianname.promo,available,19.99,,high,low,14,name.com,,,
 050a5b1c-63d5-4d77-8d95-4538c83cab1c,triplet.promo,available,11.98,33.48,low,low,7,namecheap,,,
 db050517-0cae-4e1e-a4a5-197d48df4af7,rejected.promo,available,19.99,,medium,low,8,name.com,,,
 d9a43904-8988-4237-8283-fe20b6b74e72,keepsecret.promo,available,19.99,,medium,low,11,name.com,,,
@@ -679,9 +677,9 @@ f47196f4-fc24-4007-9d99-20899b4ad8cd,apodous.promo,available,11.98,33.48,low,low
 b9550725-a191-42d4-aa3d-e3ae3688f127,attendant.promo,available,19.99,35.99,high,low,9,name.com,,,
 a90979b6-b279-4fe4-ba0c-ce9bd41831d7,touch.promo,available,19.99,,high,low,5,name.com,,,
 9d6bcc9c-e4a4-4481-929c-f7bbc27bdc4a,havemoneytoburn.promo,available,19.99,,medium,low,18,name.com,,,
-16774d35-2817-4387-9caa-458b80355a45,GreatBritain.promo,available,19.99,,high,low,13,name.com,,,
+16774d35-2817-4387-9caa-458b80355a45,greatbritain.promo,available,19.99,,high,low,13,name.com,,,
 5de1310b-6985-4568-9605-d00e47734213,rage.promo,available,19.99,,high,low,4,name.com,,,
-d3b7c661-d63a-4da2-9d7a-15fe0f26c9bc,CostaRica.promo,available,,,high,low,10,,,,
+d3b7c661-d63a-4da2-9d7a-15fe0f26c9bc,costarica.promo,available,,,high,low,10,,,,
 168af666-2b03-4b13-90c5-12bd16f571db,appreciative.promo,available,19.99,,high,low,12,name.com,,,
 132bca0e-d21b-45f7-bbd8-499a6a7d5b74,roll.promo,available,19.99,,medium,low,4,name.com,,,
 4de73c6e-03bf-4ea6-aeab-285e45846609,twodozen.promo,available,11.98,33.48,low,low,9,namecheap,,,
@@ -727,13 +725,13 @@ dd22fb39-231f-4e5a-a5b8-ee62d6f8e108,anserine.promo,available,11.98,33.48,low,lo
 be36a5fc-a8ac-4f06-9fe8-471546eae5c3,sheet.promo,available,19.99,,medium,low,5,name.com,,,
 78048bd7-8384-4cb8-abe7-c5cc47ac090a,aswhat.promo,available,19.99,,medium,low,7,name.com,,,
 cc674f34-7b59-45f9-864d-f4fcd4d232c6,experience.promo,available,19.99,,high,low,10,name.com,,,
-6f511f84-1618-4998-8d28-6c9a02de5f66,UnitedStates.promo,available,,,low,low,13,,,,
+6f511f84-1618-4998-8d28-6c9a02de5f66,unitedstates.promo,available,,,low,low,13,,,,
 edae4636-c3b1-4741-b373-634a15099c93,information.promo,available,19.99,,high,low,11,name.com,,,
 cfd28bbe-b7fc-464d-b57a-56147ef14e58,reserve.promo,available,11.98,33.48,medium,low,7,namecheap,,,06/08/2026 09:16
 f6ab1139-6b10-4da0-8498-2cda86457892,metedout.promo,available,11.98,33.48,low,low,9,namecheap,,,06/08/2026 07:37
 99873c69-fc3f-4b57-b7c4-71d2955d6a13,lindsay.promo,available,19.99,,high,low,7,name.com,,,
 2ba1f76b-c4b7-4518-93fd-4ed6dbbb6a4c,satan.promo,available,19.99,,medium,low,5,name.com,,,
-345c279e-5ad7-4b72-af3e-15f2a680ca14,Jewnose.promo,available,19.99,,medium,low,8,name.com,,,
+345c279e-5ad7-4b72-af3e-15f2a680ca14,jewnose.promo,available,19.99,,medium,low,8,name.com,,,
 440acdb3-fc75-4b1a-bb41-61786aed56cb,attorneygeneral.promo,available,19.99,,medium,low,16,name.com,,,
 409598da-c6e3-4767-937a-19521a7adba5,ambulatory.promo,available,11.98,33.48,low,low,10,namecheap,,,
 8104c053-c38d-4bb6-ac50-cfee4e0d4e9c,exhale.promo,available,19.99,,high,low,6,name.com,,,
@@ -748,12 +746,12 @@ a717c9f7-b407-43bd-ac2d-086bd6c7eefa,scandal.promo,available,19.99,,medium,low,7
 0455510d-e540-470d-825f-f60f3903fe7a,exception.promo,available,19.99,,high,low,9,name.com,,,
 050d131e-f226-4910-9994-22d661cfc9b1,inthecan.promo,available,19.99,,medium,low,10,name.com,,,
 e2843107-5e27-42eb-bf96-945b97f243d9,modelt.promo,available,19.99,,high,low,7,name.com,,,
-aef494d6-25fe-4d8e-9b77-daa8eeda2b83,chiefly.promo,available,11.98,33.48,low,low,7,namecheap,,,14/09/2026 09:34
+aef494d6-25fe-4d8e-9b77-daa8eeda2b83,chiefly.promo,available,14.49,24.99,low,low,7,namesilo,,,19/09/2026 02:53
 5e7f6d00-a3c1-479c-a8fa-c1f1db9e8ae3,employment.promo,available,19.99,,high,low,10,name.com,,,
-f6929856-6ba6-4f64-8042-e39a6fbe3c27,integrate.promo,available,19.99,,high,low,9,name.com,,,
+f6929856-6ba6-4f64-8042-e39a6fbe3c27,integrate.promo,available,11.98,33.48,medium,low,9,namecheap,,,20/09/2026 03:11
 f1b7246b-572e-4f02-82ed-7f1d7c0e1a2e,french.promo,premium,1107,1107,high,low,6,namesilo,,,
 5e98046f-f988-4104-b6ff-343d1569c647,alabaster.promo,available,11.98,33.48,low,low,9,namecheap,,,
-deedab1d-1cac-4e5c-92be-1ef8696f4acf,snack.promo,premium,3250,3250,medium,low,5,namecheap,,,08/09/2026 13:13
+deedab1d-1cac-4e5c-92be-1ef8696f4acf,snack.promo,premium,3450,3450,medium,low,5,namesilo,,,19/09/2026 10:58
 3c5416dd-6d4d-444f-aca9-19a505c2d358,neverending.promo,available,19.99,,low,low,12,name.com,,,
 7b975fc8-2062-4e00-bcbc-96b4e62d4864,computerlanguage.promo,available,19.99,,high,low,17,name.com,,,
 c587adeb-aa99-47ff-a186-42d4ad06ac39,optout.promo,available,19.99,,high,low,7,name.com,,,
@@ -780,7 +778,6 @@ b5fca210-9818-4755-b82f-ff38db0667ea,baptistic.promo,available,11.98,33.48,low,l
 aa17dbda-8fc1-4f10-9330-3f2409e8bbe9,joy.promo,available,19.99,,high,medium,3,name.com,,,
 e5eac879-f6d0-42d0-bcab-91b5037b9996,alular.promo,available,11.98,33.48,low,low,6,namecheap,,,
 5f59f6a1-500a-450d-bcc4-8fa9bca6b43f,tin.promo,available,19.99,,medium,low,3,name.com,,,
-ccbdc914-5a78-4302-826d-76f6358fae39,windows.promo,available,,,medium,low,7,,,,
 4c863466-0472-4328-94bf-d5598a425d2a,nebula.promo,available,19.99,,high,low,6,name.com,,,
 4260c9ee-65e2-4d26-80e1-bc69b6e9eb13,watson.promo,available,,,high,low,6,,,,
 0d15b408-5d7c-4119-8da1-1af0a55703b2,albuminous.promo,available,11.98,33.48,low,low,10,namecheap,,,
@@ -792,9 +789,9 @@ d91ffa8e-ac74-4f6c-b9dd-05c167a3ba57,blessed.promo,available,19.99,,medium,low,7
 5168315e-9074-4c1e-a964-2fc86de9edf3,holes.promo,available,19.99,,medium,low,5,name.com,,,
 00eba37c-5a8d-482c-9ac7-1be53dd2e7e0,abundant.promo,available,19.99,35.99,high,low,8,name.com,,,
 827796f8-ab25-405e-9d16-bd467897ee7a,setanexample.promo,available,19.99,,medium,low,14,name.com,,,
-fa5ad9ed-61e5-49c1-8b7d-7b9e9324639f,spike.promo,available,11.98,33.48,medium,low,5,namecheap,,,12/09/2026 11:46
+fa5ad9ed-61e5-49c1-8b7d-7b9e9324639f,spike.promo,available,14.49,24.99,low,low,5,namesilo,,,19/09/2026 15:31
 0d3acf60-4039-4ed5-a182-000fef01d564,petty.promo,available,19.99,,medium,low,5,name.com,,,
-f89f63ae-6438-4243-a440-9c44342a98ec,marketing.promo,premium,3125,,high,medium,9,name.com,,,
+f89f63ae-6438-4243-a440-9c44342a98ec,marketing.promo,premium,3450,3450,medium,low,9,namesilo,,,19/09/2026 13:53
 e71bda64-d29f-494e-bf8e-3da890de742a,muchas.promo,available,19.99,,medium,low,7,name.com,,,
 dc44a210-2ea2-4ad7-acc7-151337f89952,fancy.promo,available,19.99,,high,low,5,name.com,,,
 9d3a9486-0bf9-4770-b2c5-ed395b026e91,arduous.promo,available,11.98,33.48,low,low,7,namecheap,,,06/08/2026 16:40
@@ -834,7 +831,7 @@ ff68310d-be9e-4ed3-b6eb-600a376e58be,automotive.promo,premium,3125,,high,low,10,
 99de5ee7-321e-4a47-ab3e-75c2e7e99095,belong.promo,available,19.99,,high,low,6,name.com,,,
 3fce15dc-95a3-4a05-b176-145ee330874c,xxix.promo,available,11.98,33.48,low,low,4,namecheap,,,
 724b5ab6-bd2d-439b-b319-0008a2627b00,xxv.promo,available,19.99,35.99,medium,low,3,name.com,,,
-c676826d-4e3e-441c-9669-69276830929b,IndianaJones.promo,available,19.99,,high,low,13,name.com,,,
+c676826d-4e3e-441c-9669-69276830929b,indianajones.promo,available,19.99,,high,low,13,name.com,,,
 74e1c0c7-aef9-422e-9266-1234e013b7d2,tie.promo,premium,1875,,high,low,3,name.com,,,
 8f5b2437-34fd-461d-99b9-b0720727cfbb,possession.promo,available,19.99,,high,low,10,name.com,,,
 3f345b68-51b7-484b-80b8-6d11d19ce388,indrawing.promo,available,19.99,,low,low,10,name.com,,,
@@ -849,9 +846,9 @@ b5c11e02-042e-43c1-b5f0-9fc2da8bf475,glancing.promo,available,19.99,,high,low,8,
 2c9ec053-9cd4-4606-a3db-83b7fdfb0c84,sequent.promo,available,11.98,33.48,low,low,7,namecheap,,,
 69f1fc19-7acc-4257-8d5e-df791d290e6c,sailor.promo,available,19.99,,high,low,6,name.com,,,
 d4d35cf3-0a0c-41dc-8101-bf7b63bac793,moi.promo,available,19.99,,high,low,3,name.com,,,
-a2131ed4-671c-4b99-8d39-260c216fd7a5,AOL.promo,available,,,high,low,3,,,,
+a2131ed4-671c-4b99-8d39-260c216fd7a5,aol.promo,available,,,high,low,3,,,,
 73a667be-e143-4e69-ac6d-63fbd9b307f6,roomy.promo,available,19.99,,high,low,5,name.com,,,
-e4969901-840b-48b1-bd9c-87f78a1a7bd1,Godonlyknows.promo,available,19.99,,medium,low,14,name.com,,,
+e4969901-840b-48b1-bd9c-87f78a1a7bd1,godonlyknows.promo,available,19.99,,medium,low,14,name.com,,,
 58d4724e-73eb-4a40-aace-b7e962efbd44,basinal.promo,available,11.98,33.48,low,low,7,namecheap,,,08/08/2026 22:32
 372dc907-5529-4025-b2f5-77e2428bac80,exhibit.promo,premium,302.5,302.5,high,low,7,namesilo,,,
 eece7ec1-60ba-4a1c-9187-4988d65cab83,moneylaundering.promo,available,19.99,,medium,low,16,name.com,,,
@@ -877,7 +874,7 @@ c2cc0209-2623-4147-8802-1c8c29467f9b,attrited.promo,available,11.98,33.48,low,lo
 37db32d3-a93d-4e1f-b7ae-5597488ae92d,adynamic.promo,available,11.98,33.48,low,low,8,namecheap,,,
 67664a80-cb42-46d3-8328-97a8edf081b9,threatening.promo,available,19.99,,high,low,11,name.com,,,
 0da4836e-a2d0-4b62-80d3-b57ae62a542f,electricity.promo,available,19.99,,high,low,11,name.com,,,
-91fc8a58-6b67-44a1-befb-d6891e92ddf9,electronic.promo,premium,3250,3250,medium,low,10,namecheap,,,08/09/2026 07:20
+91fc8a58-6b67-44a1-befb-d6891e92ddf9,electronic.promo,premium,3450,3450,low,low,10,namesilo,,,19/09/2026 14:31
 f49e793c-2f38-47a3-876b-32898b0a3586,analphabet.promo,available,11.98,33.48,low,low,10,namecheap,,,
 dd6b1871-8a65-4279-b2b5-24ceca0a20c8,sixteen.promo,available,19.99,35.99,high,low,7,name.com,,,
 fb4a7a4a-fc7c-49ab-bf23-3da1f15edbdc,intheoldtimes.promo,available,19.99,,medium,low,16,name.com,,,
@@ -886,10 +883,10 @@ fb4a7a4a-fc7c-49ab-bf23-3da1f15edbdc,intheoldtimes.promo,available,19.99,,medium
 31030fbc-bce6-4c07-8983-b903b23e6665,aberdonian.promo,available,11.98,33.48,low,low,10,namecheap,,,
 76d29f17-3f1c-41ad-9ce8-6de3680b203d,altaic.promo,available,11.98,33.48,low,low,6,namecheap,,,
 cf81c4c7-4249-4210-afef-91ba6da8fd2a,rural.promo,premium,1107,1107,medium,low,5,namesilo,,,08/09/2026 07:52
-b2d780b2-ddae-40e3-b5b7-8322a4fef080,Nicky.promo,available,19.99,,medium,low,5,name.com,,,
+b2d780b2-ddae-40e3-b5b7-8322a4fef080,nicky.promo,available,19.99,,medium,low,5,name.com,,,
 71a72a9a-378d-4ec5-b098-8271a03dcf44,ailing.promo,available,11.98,33.48,low,low,6,namecheap,,,
 38e896af-4857-4c79-addb-3db5932106dd,buzzed.promo,available,19.99,,high,low,6,name.com,,,
-c8471558-fd66-4b3a-9e47-38eace6b37c2,WestVirginia.promo,premium,302.5,302.5,low,low,13,namesilo,,,
+c8471558-fd66-4b3a-9e47-38eace6b37c2,westvirginia.promo,premium,302.5,302.5,low,low,13,namesilo,,,
 197d0d3e-4671-4411-9898-e3d09dd388be,clarity.promo,available,19.99,,high,medium,7,name.com,,,
 4f9b269c-f7c9-4ceb-9ca9-7bea19fae56b,disc.promo,available,19.99,,high,low,4,name.com,,,
 7f90a02f-709b-41d6-a50b-ef5fa24a07d9,apposable.promo,available,11.98,33.48,low,low,9,namecheap,,,06/08/2026 07:48
@@ -897,7 +894,7 @@ fa60198b-e2a8-4d8e-b94d-a129a3858ac8,soundthealarm.promo,available,19.99,,high,l
 80a5f4fe-2f53-4913-84e6-ee01f3a03d68,democracy.promo,available,19.99,,high,low,9,name.com,,,
 d5703e03-aae3-4a6a-b3d3-b87b107d0a24,resolvable.promo,available,19.99,,high,low,10,name.com,,,
 8e24d7ad-d49c-4212-9cfc-9a6c87d90064,allelic.promo,available,11.98,33.48,low,low,7,namecheap,,,
-8ea115f7-40a1-45c6-9737-19ee568d398f,SierraLeone.promo,available,,,low,low,12,,,,
+8ea115f7-40a1-45c6-9737-19ee568d398f,sierraleone.promo,available,,,low,low,12,,,,
 6d5af937-76e6-4435-a1f7-05e88cd0031d,aeolian.promo,available,11.98,33.48,low,low,7,namecheap,,,
 fa4979e9-8512-4a8a-9f74-0ca99ce447b4,amiable.promo,available,19.99,35.99,high,low,7,name.com,,,
 d850306d-fb45-46b3-ac97-a6e86d99139f,arranged.promo,available,19.99,,high,low,8,name.com,,,
@@ -909,7 +906,7 @@ ea0a09c1-ee8b-4aa3-8717-6db59c597128,xxxviii.promo,available,11.98,33.48,low,low
 a7ea44c8-fd3d-4c89-a31e-13e2e9ca4b3e,usa.promo,premium,3125,,high,medium,3,name.com,,,
 d0a3d74f-c7ef-49f8-8e59-2396f69bd585,buttony.promo,available,11.98,33.48,low,low,7,namecheap,,,09/08/2026 03:34
 618bb680-fbd3-47c5-8c1e-d86ef4e8ae48,fabric.promo,available,11.98,33.48,medium,low,6,namecheap,,,08/09/2026 12:34
-1dd8c25b-e314-43a8-b3e4-bb823804149a,NASAsupported.promo,available,19.99,,low,low,14,name.com,,,
+1dd8c25b-e314-43a8-b3e4-bb823804149a,nasasupported.promo,available,19.99,,low,low,14,name.com,,,
 69862fda-3c21-4702-a51b-0f9f04a39fc6,advancing.promo,available,19.99,35.99,high,low,9,name.com,,,
 6f545e9e-10f1-4816-b1d5-fc16f571c431,hinder.promo,available,19.99,,high,low,6,name.com,,,
 119a9f2d-33cb-41a0-a71b-8f7e5e946eea,other.promo,available,19.99,,medium,low,5,name.com,,,
@@ -927,11 +924,11 @@ f1420727-0384-4d02-9391-9b8e981c4288,discovered.promo,available,19.99,,medium,lo
 227f4278-7b03-4a5b-9853-b873b019830a,sedative.promo,available,19.99,,high,low,8,name.com,,,
 05ada0f7-2e43-4520-befe-8d65639a661b,bathyal.promo,available,11.98,33.48,low,low,7,namecheap,,,09/08/2026 01:34
 e5a441e5-3c9c-454f-a990-ec857cdea8b5,statutoryrape.promo,available,19.99,,low,low,14,name.com,,,
-5bb4fb71-cb42-471a-a524-c1595b9dc37b,McMuffin.promo,available,19.99,,high,low,8,name.com,,,
+5bb4fb71-cb42-471a-a524-c1595b9dc37b,mcmuffin.promo,available,19.99,,high,low,8,name.com,,,
 8ec4ae0b-bf4b-4e0c-a604-d4d22ce2be39,wow.promo,premium,1107,1107,high,medium,3,namesilo,,,
 ea29ebd1-1088-49f8-8696-19f2403a2e23,documented.promo,available,19.99,,medium,low,10,name.com,,,
 1cba5e43-a681-4203-b87a-6d56ccdc7050,cotyloid.promo,available,11.98,33.48,low,low,8,namecheap,,,
-430b5210-d78d-423e-8f39-03e1af796a7d,WinterHaven.promo,available,19.99,,low,low,12,name.com,,,
+430b5210-d78d-423e-8f39-03e1af796a7d,winterhaven.promo,available,19.99,,low,low,12,name.com,,,
 248dd1e5-5cac-418a-a828-d1af9abf4a82,shirtless.promo,available,19.99,,medium,low,9,name.com,,,
 e1bae70e-41d7-45b5-99dc-7dd475dd64cc,arty.promo,available,11.98,33.48,low,low,4,namecheap,,,06/08/2026 23:51
 850c4c54-86ac-41e8-b022-a9489f9afd94,adipose.promo,available,11.98,33.48,low,low,7,namecheap,,,
@@ -962,7 +959,7 @@ b83f0064-eac0-444e-bf61-9e514fe5f483,intense.promo,available,19.99,,high,low,7,n
 9a17088c-8018-45d3-9466-8fe4b5643959,toward.promo,available,19.99,,medium,low,6,name.com,,,
 5645e7f4-f57b-4af2-809d-3488b88d5571,reception.promo,available,19.99,,high,low,9,name.com,,,
 0d2f886a-1fee-40fe-9860-c18ca2c6970f,con.promo,available,19.99,,high,low,3,name.com,,,
-98f11fd1-cc1d-4f97-8f85-5c2204665c94,spread.promo,premium,1250,1250,high,low,6,name.com,,,
+98f11fd1-cc1d-4f97-8f85-5c2204665c94,spread.promo,premium,1107,1107,medium,low,6,namesilo,,,19/09/2026 12:51
 a1a66bca-a68a-4272-838f-2d4b089a1ff5,intheend.promo,available,19.99,,medium,low,10,name.com,,,
 4dc03837-5208-40f7-99eb-1aa3688bd424,described.promo,available,19.99,35.99,medium,low,9,name.com,,,
 fa909f95-9093-4f5e-b805-084d12da0ec9,oppose.promo,available,19.99,,medium,low,6,name.com,,,
@@ -999,3 +996,6 @@ c6186b37-46f7-4b0b-96d5-ae7ada5f3892,mobilephone.promo,premium,3125,,high,low,12
 dd7000a0-e74b-4bb0-a498-97c0055ee7bf,established.promo,available,19.99,,medium,low,11,name.com,,,
 7afe88e3-6566-41dd-8ec9-8fecf31293b9,retardant.promo,available,19.99,,high,low,9,name.com,,,
 dc8485ac-430e-4a59-a0be-f7b84060700d,lose.promo,available,19.99,,medium,low,4,name.com,,,
+e513dbab-98f4-4f0e-9230-f48e80b30ac2,idcard.promo,available,19.99,,high,low,7,name.com,,,
+6c942991-9602-481c-b62c-96cf5ac607da,establish.promo,available,19.99,,medium,low,9,name.com,,,
+e9e8a1c2-f67f-417c-ae5b-d62377680b65,hear.promo,available,19.99,,high,low,4,name.com,,,
