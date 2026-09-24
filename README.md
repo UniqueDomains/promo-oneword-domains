@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .promo one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,401 domains · **Median ask:** $58.71 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/promo`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| beauty.promo | premium   | $3,450    | $3,450        | high           | low    | 6      | namesilo                                     |
-| fancy.promo  | available | $19.99    | —             | high           | low    | 5      | name.com                                     |
-| wrong.promo  | available | $19.99    | —             | high           | low    | 5      | name.com                                     |
-| abo.promo    | available | $11.98    | $33.48        | low            | low    | 3      | namecheap                                    |
-| bit.promo    | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| art.promo    | premium   | $1,300    | $1,300        | medium         | low    | 3      | namecheap                                    |
-| ana.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| fast.promo   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                 |
-| ink.promo    | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                     |
-| ass.promo    | available | $11.98    | $33.48        | low            | low    | 3      | namecheap                                    |
-| view.promo   | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC                                |
-| lie.promo    | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo                                     |
-| ate.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| color.promo  | resell    | —         | —             | high           | low    | 5      | IONOS SE                                     |
-| tie.promo    | premium   | $1,875    | —             | high           | low    | 3      | name.com                                     |
-| beg.promo    | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
-| nurse.promo  | resell    | —         | —             | medium         | low    | 5      | IONOS SE                                     |
-| usa.promo    | premium   | $3,125    | —             | high           | medium | 3      | name.com                                     |
-| con.promo    | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
-| print.promo  | resell    | —         | —             | high           | medium | 5      | Virtualia LLC                                |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| fancy.promo    | available | $19.99    | —             | high           | low    | 5      | name.com                                     |
+| wrong.promo    | available | $19.99    | —             | high           | low    | 5      | name.com                                     |
+| language.promo | available | $19.99    | —             | high           | low    | 8      | name.com                                     |
+| shoot.promo    | available | $19.99    | —             | high           | low    | 5      | name.com                                     |
+| abo.promo      | available | $11.98    | $33.48        | low            | low    | 3      | namecheap                                    |
+| bit.promo      | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| art.promo      | premium   | $1,300    | $1,300        | medium         | low    | 3      | namecheap                                    |
+| ana.promo      | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| fast.promo     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC                                 |
+| ink.promo      | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                     |
+| ass.promo      | available | $11.98    | $33.48        | low            | low    | 3      | namecheap                                    |
+| view.promo     | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC                                |
+| lie.promo      | premium   | $1,107    | $1,107        | medium         | low    | 3      | namesilo                                     |
+| ate.promo      | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
+| nurse.promo    | resell    | —         | —             | medium         | low    | 5      | IONOS SE                                     |
+| tie.promo      | premium   | $1,875    | —             | high           | low    | 3      | name.com                                     |
+| beg.promo      | available | $19.99    | —             | medium         | low    | 3      | name.com                                     |
+| print.promo    | resell    | —         | —             | high           | medium | 5      | Virtualia LLC                                |
+| usa.promo      | premium   | $3,125    | —             | high           | medium | 3      | name.com                                     |
+| con.promo      | available | $19.99    | —             | high           | low    | 3      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
