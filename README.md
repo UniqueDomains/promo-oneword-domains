@@ -1,10 +1,10 @@
-# Available .PROMO One-Word Domains (32,291)
+# Available .PROMO One-Word Domains (34,594)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C291%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C594%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .promo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,291 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **34,594 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,291 domains · **Median ask:** $75.25 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 34,594 domains · **Median ask:** $71.85 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/promo`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| adz.promo   | available | $14.49    | $24.99        | medium         | low    | 3      | namesilo                |
-| bad.promo   | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC        |
-| aro.promo   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
-| afa.promo   | available | $14.49    | $24.99        | high           | low    | 3      | namesilo                |
-| sky.promo   | resell    | —         | —             | high           | medium | 3      | Unstoppable Domains Inc |
-| cub.promo   | premium   | $325      | $325          | high           | low    | 3      | namecheap               |
-| age.promo   | available | $14.49    | $24.99        | high           | low    | 3      | namesilo                |
-| metal.promo | resell    | —         | —             | high           | low    | 5      | IONOS SE                |
-| etc.promo   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                |
-| bjs.promo   | available | $14.49    | $24.99        | medium         | low    | 3      | namesilo                |
-| nie.promo   | premium   | $1,300    | $1,300        | medium         | low    | 3      | namecheap               |
-| blt.promo   | available | $14.49    | $24.99        | high           | low    | 3      | namesilo                |
-| pin.promo   | premium   | $1,995    | $1,995        | high           | low    | 3      | namesilo                |
-| byu.promo   | available | $10.55    | $19.87        | medium         | low    | 3      | spaceship               |
-| rio.promo   | premium   | $2,587.70 | $2,587.70     | high           | low    | 3      | spaceship               |
-| cad.promo   | available | $11.98    | $33.48        | high           | low    | 3      | namecheap               |
-| sap.promo   | premium   | $546.56   | $1,092.18     | high           | low    | 3      | porkbun                 |
-| ccd.promo   | available | $14.49    | $24.99        | high           | low    | 3      | namesilo                |
-| usc.promo   | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo                |
-| csf.promo   | available | $19.20    | $19.20        | medium         | low    | 3      | cloudflare              |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| adz.promo   | available | $14.49    | $24.99        | medium         | low    | 3      | namesilo    |
+| metal.promo | resell    | —         | —             | high           | low    | 5      | IONOS SE    |
+| aro.promo   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo    |
+| aew.promo   | available | $13.50    | —             | high           | low    | 3      | unstoppable |
+| cub.promo   | premium   | $325      | $325          | high           | low    | 3      | namecheap   |
+| afa.promo   | available | $14.49    | $24.99        | high           | low    | 3      | namesilo    |
+| etc.promo   | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo    |
+| age.promo   | available | $14.49    | $24.99        | high           | low    | 3      | namesilo    |
+| nie.promo   | premium   | $1,300    | $1,300        | medium         | low    | 3      | namecheap   |
+| bjs.promo   | available | $14.49    | $24.99        | medium         | low    | 3      | namesilo    |
+| pin.promo   | premium   | $1,995    | $1,995        | high           | low    | 3      | namesilo    |
+| blt.promo   | available | $14.49    | $24.99        | high           | low    | 3      | namesilo    |
+| rio.promo   | premium   | $2,587.70 | $2,587.70     | high           | low    | 3      | spaceship   |
+| bsd.promo   | available | $10.55    | $19.87        | high           | low    | 3      | spaceship   |
+| sap.promo   | premium   | $546.56   | $1,092.18     | high           | low    | 3      | porkbun     |
+| byu.promo   | available | $10.55    | $19.87        | medium         | low    | 3      | spaceship   |
+| usc.promo   | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo    |
+| cad.promo   | available | $11.98    | $33.48        | high           | low    | 3      | namecheap   |
+| yao.promo   | premium   | $2,660    | $2,660        | medium         | low    | 3      | namesilo    |
+| ccd.promo   | available | $14.49    | $24.99        | high           | low    | 3      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,291 live domains                        |
+| 1,000-row public sample | 34,594 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROMO One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
